@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cp -r ../../auto_update/dist/update_ui/* ./
+cp -r ../../minecraft_mod_updater_src/dist/combined/* ./
 git_ready.sh update
